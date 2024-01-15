@@ -1,0 +1,16 @@
+[{
+  "blacklist": [
+    "Azure",
+    ".aspx",
+    "signout",
+    "logout",
+    "déconnexion",
+    "activer",
+    "Tous",
+    "En cours",
+    "Expirés",
+    "RSW",
+    "National"
+  ],
+  "url": "https://www.reseausantewallon.be/"
+}]
